@@ -1,0 +1,39 @@
+[
+    {
+        "ID":1,
+        "Marca":"SLP",
+        "Modelo":"Ruta",
+        "Rodado":26,
+        "Año de fabricación":2019,
+        "Color":"Negro",
+        "Peso en Kilogramos":13,
+        "Tipo":"Montañera",
+        "Precio":1500,
+        "Vendida": true
+    },
+
+    {
+        "ID":2,
+        "Marca":"Halley",
+        "Modelo":"Regal",
+        "Rodado":28,
+        "Año de fabricación":2021,
+        "Color":"Rojo",
+        "Peso en Kilogramos":17,
+        "Tipo":"Retro",
+        "Precio":2100,
+        "Vendida":false
+    },
+    {
+        "ID":3,
+        "Marca":"Fixie",
+        "Modelo":"Techno",
+        "Rodado":16,
+        "Año de fabricación":2022,
+        "Color":"Celeste",
+        "Peso en Kilogramos":15,
+        "Tipo":"Paseo",
+        "Precio":1200,
+        "Vendida":false
+    }
+]

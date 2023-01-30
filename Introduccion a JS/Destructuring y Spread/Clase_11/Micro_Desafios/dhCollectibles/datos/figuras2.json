@@ -1,0 +1,8 @@
+[
+    {
+        "marca":"Bandai",
+        "nombre":["Gamora","Hulk","Thor","Vegeta","Sailor Pluto", "Sailor Saturn", "Wonder Woman"],
+        "precio":18000,
+        "sotck":4
+    }
+]
