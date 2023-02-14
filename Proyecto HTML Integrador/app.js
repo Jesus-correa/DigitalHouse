@@ -10,7 +10,7 @@ app.use(express.static(publicPath))
 
 //Asignacion al puerto
 app.listen(3000,() => {
-    console.log("Funciona");
+    console.log("Funciona en puerto 3.000");
 });
 
 //Funcionalidad y asignacion del html raiz

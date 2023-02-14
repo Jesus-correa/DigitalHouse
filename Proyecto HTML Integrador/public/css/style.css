@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap'); 
+*{
+font-family: 'Roboto', sans-serif;
+box-sizing: border-box;
+}
 
-body{
-    background-color: #EAC926;
-    font-family: 'Roboto', sans-serif;;
+header{
+    background-color: #eac926;
 }
 h3{
     font-size: 24px;
@@ -20,4 +24,9 @@ h3{
 
 .Negrita{
     font-weight: bold;
+}
+
+footer{
+    text-align:center;
+
 }
